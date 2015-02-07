@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Firmata-masterMaven/Firmata.iml" filepath="$PROJECT_DIR$/../Firmata-masterMaven/Firmata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Firmata-masterMaven/FirmataTests.iml" filepath="$PROJECT_DIR$/../Firmata-masterMaven/FirmataTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Firmata-masterMaven/IndepProcessingSerial.iml" filepath="$PROJECT_DIR$/../Firmata-masterMaven/IndepProcessingSerial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Firmata-masterMaven/ProcessingSerial.iml" filepath="$PROJECT_DIR$/../Firmata-masterMaven/ProcessingSerial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Firmata-masterMaven/Serial.iml" filepath="$PROJECT_DIR$/../Firmata-masterMaven/Serial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Firmata-masterMaven/parent.iml" filepath="$PROJECT_DIR$/../Firmata-masterMaven/parent.iml" />
+    </modules>
+  </component>
+</project>
